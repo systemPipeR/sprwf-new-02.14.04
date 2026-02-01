@@ -6,7 +6,7 @@ __Usage__
 
 Consult the details [here](https://systempipe.org/sprwf-new-02.14.04/new.html) or click the workflow's HTML filename in the repository.
 
-To download this workflow, run one of the following options.
+To download this workflow, run one of the following commands.
 
 From the command-line:
 

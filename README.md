@@ -2,14 +2,16 @@
 
 This is a workflow of the systemPipeR Workflow Management System (WMS).
 Detailed information about this specific workflow is available [here](https://systempipe.org/sprwf-new-02-14-04/new.html).
-Alternatively, clicking the workflow's HTML filename in the repository opens the same document. 
+Clicking the workflow's HTML filename in the repository opens the same page. 
 
 To learn how to design, set up, and run workflows using systemPipeR, users want to consult the official user manuals:
 
   + [systemPipeR Manual](https://bioconductor.org/packages/devel/bioc/html/systemPipeR.html)
   + [systemPipeRdata Manual](https://www.bioconductor.org/packages/devel/data/experiment/html/systemPipeRdata.html)
 
-A list of all available workflow templates and additional project information can be found on the project's dedicated website: [systempipe.org][https://systempipe.org/about/project/].
+A list of all available workflow templates and additional project information
+can be found on the project's dedicated website:
+[systempipe.org](https://systempipe.org/about/project/).
 
 __Download of Workflow__
 

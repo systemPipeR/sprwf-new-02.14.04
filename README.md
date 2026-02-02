@@ -6,6 +6,12 @@
   </a>
 </p>
 
+<p align="right">
+  <a href="https://systempipe.org">
+    <img src="https://img.shields.io" alt="Tutorial Badge">
+  </a>
+</p>
+
 This is a workflow of the systemPipeR Workflow Management System (WMS).
 Detailed information about this specific workflow is available [here](https://systempipe.org/sprwf-new-02-14-04/new.html).
 

@@ -7,7 +7,7 @@
 </p>
 
 
-This is a workflow of the systemPipeR Workflow Management System (WMS).
+This is a workflow template of the systemPipeR Workflow Management System (WMS).
 Detailed information about this specific workflow is available [here](https://systempipe.org/sprwf-new-02-14-04/new.html).
 
 To learn how to design, set up, and run workflows using systemPipeR, users want to consult the official user manuals:
